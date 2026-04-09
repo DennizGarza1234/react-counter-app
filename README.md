@@ -40,7 +40,7 @@ npm install
 npm run dev
 ```
 
-### 2. Open in browser
+### 4. Open in browser
 [http://localhost:5173]
 
 ---
